@@ -1,5 +1,6 @@
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
+import { withBasePath } from "@/lib/basePath";
 
 type PageShellProps = {
   children: React.ReactNode;
@@ -14,7 +15,9 @@ export function PageShell({
   return (
     <div
       className="flex min-h-screen flex-col bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: `url('${backgroundImage}')` }}
+      style={{
+        backgroundImage: `url('${withBasePath(backgroundImage)}')`,
+      }}
     >
       <SiteHeader />
       <div className="flex-1">{children}</div>

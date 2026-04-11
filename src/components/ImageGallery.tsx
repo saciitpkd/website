@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { withBasePath } from "@/lib/basePath";
 import { EffectCoverflow, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -66,7 +67,7 @@ export function ImageGallery({ images, galleryId }: Props) {
         {images.map((url, index) => (
           <SwiperSlide key={url} className="swiper-slide">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={url} alt={`Slide ${index + 1}`} />
+            <img src={withBasePath(url)} alt={`Slide ${index + 1}`} />
           </SwiperSlide>
         ))}
         <div
