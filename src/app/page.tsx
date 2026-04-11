@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { AnnouncementSection } from "@/components/AnnouncementSection";
+import { withBasePath } from "@/lib/basePath";
 import { EventCalendar } from "@/components/EventCalendar";
 import { ImageGallery } from "@/components/ImageGallery";
 import { PageShell } from "@/components/PageShell";
@@ -64,7 +65,7 @@ export default function HomePage() {
                 className="flex max-w-[280px] flex-col items-center text-center"
               >
                 <Image
-                  src={person.image}
+                  src={withBasePath(person.image)}
                   alt={person.name}
                   width={120}
                   height={120}
@@ -93,7 +94,7 @@ export default function HomePage() {
                 className="flex max-w-[260px] flex-col items-center text-center"
               >
                 <Image
-                  src={s.image}
+                  src={withBasePath(s.image)}
                   alt={s.name}
                   width={110}
                   height={110}

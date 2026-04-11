@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useMemo, useState } from "react";
+import { withBasePath } from "@/lib/basePath";
 import type { RacScholar } from "@/types/content";
 
 type Props = {
@@ -25,7 +26,7 @@ export function RacScholars({ scholars }: Props) {
     <div className="mx-auto max-w-3xl px-3 py-8 text-stone-900 sm:px-4">
       <div className="mb-6 flex flex-wrap items-start gap-4">
         <Image
-          src="/rac_logo.png"
+          src={withBasePath("/rac_logo.png")}
           alt="RAC"
           width={72}
           height={72}

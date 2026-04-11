@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { PageShell } from "@/components/PageShell";
+import { withBasePath } from "@/lib/basePath";
 import raw from "../../../content/developers.json";
 import type { DeveloperCard, DevelopersContent } from "@/types/content";
 
@@ -21,7 +22,7 @@ function DevGrid({ title, list }: { title: string; list: DeveloperCard[] }) {
             className="overflow-hidden rounded-2xl border border-stone-200 bg-white/95 text-center shadow transition hover:scale-[1.02]"
           >
             <Image
-              src={dev.image}
+              src={withBasePath(dev.image)}
               alt={dev.name}
               width={400}
               height={280}
