@@ -1,0 +1,71 @@
+{
+  "name": "Student Affairs Council",
+  "short_name": "SAC App",
+  "theme_color": "#f38221",
+  "background_color": "#f9f9f9",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "scope": "/",
+  "description": "Student Affairs Council website of IIT Palakkad",
+  "start_url": "/",
+  "id": "/",
+  "screenshots": [
+    {
+      "src": "images/screenshot-mobile.webp",
+      "sizes": "540x720",
+      "type": "image/webp"
+    },
+    {
+      "src": "images/screenshot-desktop.webp",
+      "sizes": "1200x800",
+      "type": "image/webp",
+      "form_factor": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "any192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo256.webp",
+      "type": "image/webp",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo384.webp",
+      "type": "image/webp",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo512.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+note",
+      "url": "/handle-protocol?text=%s"
+    }
+  ]
+}

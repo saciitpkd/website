@@ -1,0 +1,27 @@
+{
+  "council": {
+    "council_name": "postgraduate",
+    "council_title": "Post Graduate Affairs Council",
+    "council_email": "pgcouncil@smail.iitpkd.ac.in",
+    "secretary": {
+      "name": "Geddam Gowtham",
+      "full_name": "Geddam Gowtham",
+      "email": "sec_pg@smail.iitpkd.ac.in",
+      "studentEmail": "142402006@smail.iitpkd.ac.in"
+    },
+    "deputies": []
+  },
+  "page": {
+    "aboutTitle": "About the Postgraduate Council",
+    "aboutParagraphs": [
+      "The PG section has grown a lot with the institute currently offering MS, M.Tech, M.Sc, and PhD degrees, with some M.Sc. and M.Tech courses beginning only the previous year. Being more experienced, PG students also become fundamental in the process of creating a more hands-on culture in the institute and some often offer guidance by assisting some professors in their undergrad courses. Even so, most of the PG students are usually working in labs and are always approachable and offer guidance to any undergrad who is interested in further studies. Secretary, Post Graduate (SPG) Affairs is unique in itself as the secretary represents the welfare of the whole of the PG student community in all regards: academic, cultural, technical, sports and hostel too, except for research, which is dedicatedly handled by the Secretary, Research Affairs. SPG gives important advice and feedback from the PG students and hence plays an integral, indispensable role in the proper functioning of SAC.",
+      "The institute, in collaboration with the SGP and SRA, organizes seminars, talks, institute colloquium, etc which form an essential part of the day-to-day activities for PG scholars. Research Scholar's Day, like in other esteemed institutes, is also celebrated at IIT Palakkad, under the management of SGP. The secretary also works closely with the Associate Dean (Academics, PG) and Dean (Students) to provide better guidance and infrastructure to the post-graduates. Associate Dean (Academics, PG): adpg@iitpkd.ac.in Dean (Students): deanstudents@iitpkd.ac.in"
+    ],
+    "galleryTitle": "PG Council Highlights",
+    "galleryImages": [
+      "/council/postgraduate/photo1.webp",
+      "/council/postgraduate/photo2.webp",
+      "/council/postgraduate/photo3.webp"
+    ]
+  }
+}

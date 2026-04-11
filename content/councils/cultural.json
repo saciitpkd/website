@@ -1,0 +1,47 @@
+{
+  "council": {
+    "council_name": "cultural",
+    "council_title": "Cultural Council",
+    "council_email": "culturalcouncil@smail.iitpkd.ac.in",
+    "secretary": {
+      "name": "Joy Patel",
+      "full_name": "Joy Patel",
+      "email": "sec_arts@smail.iitpkd.ac.in",
+      "studentEmail": "132201022@smail.iitpkd.ac.in"
+    },
+    "deputies": []
+  },
+  "page": {
+    "aboutTitle": "About the Cultural Council",
+    "aboutParagraphs": [
+      "The Cultural Council of IIT Palakkad is committed to nurturing the vibrant and diverse cultural life on campus. It provides a platform for students to express their artistic and creative talents across music, dance, drama, literature, fine arts, and more.",
+      "The Council organizes a wide variety of events throughout the year, including the institute's flagship cultural fest, workshops, inter-hostel competitions, and collaboration with clubs. The council also promotes inclusivity and encourages participation from students of all backgrounds to foster a sense of community and joy through culture. Led by the Cultural Affairs Secretary and supported by deputy secretaries and volunteers, the council works under the SAC framework to bring energy and celebration to campus life.",
+      "The Council supports a wide range of clubs that encourage creativity, performance, and personal expression. The Film and Media Council features Bioscope, Curtain Call, and Shutterbug, focusing on filmmaking, dramatics, and photography respectively. The Arts Council includes Lifestyle Club for culinary arts, Sync 2 Beat for dance, Voxel for design, Grafica for visual arts, and Vadya for music. The Literary Council fosters intellectual and creative growth through Qriosity for quizzes, Akshar for writing, and Vaani for debates. Beyond club activities, the Council also oversees Yogshala, which promotes physical and mental well-being through yoga sessions and competitions, and Ek Bharat Shreshtha Bharat, which organizes events that celebrate India's cultural diversity. Together, these initiatives form the cultural backbone of the institute, offering students space to explore their interests and talents beyond academics."
+    ],
+    "galleryTitle": "Cultural Highlights",
+    "galleryImages": [
+      "/council/cultural/photo1.webp",
+      "/council/cultural/photo2.webp",
+      "/council/cultural/photo3.webp",
+      "/council/cultural/photo4.webp",
+      "/council/cultural/photo5.webp"
+    ],
+    "convenors": [
+      {
+        "councilTitle": "Film and Media Council",
+        "name": "Muhamed Rizwan Mehaboob",
+        "email": "142301026@smail.iitpkd.ac.in"
+      },
+      {
+        "councilTitle": "Arts Council",
+        "name": "Gayathri S",
+        "email": "122201002@smail.iitpkd.ac.in"
+      },
+      {
+        "councilTitle": "Literary Council",
+        "name": "Pushti Amit Vasoya",
+        "email": "112201005@smail.iitpkd.ac.in"
+      }
+    ]
+  }
+}

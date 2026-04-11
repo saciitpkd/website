@@ -1,0 +1,30 @@
+{
+  "council": {
+    "council_name": "sports",
+    "council_title": "Sports Council",
+    "council_email": "sportscouncil@smail.iitpkd.ac.in",
+    "secretary": {
+      "name": "Amuluru Sai",
+      "full_name": "Amuluru Pavan Sai",
+      "email": "sec_sports@smail.iitpkd.ac.in",
+      "studentEmail": "122201022@smail.iitpkd.ac.in"
+    },
+    "deputies": []
+  },
+  "page": {
+    "aboutTitle": "About Sports Council",
+    "aboutParagraphs": [
+      "At IIT Palakkad, we believe that physical activity is just as important as academics for a student's overall development. The Sports Council plays a pivotal role in fostering a vibrant sporting culture on campus, encouraging students to pursue excellence in a wide variety of sports and fitness activities.",
+      "The council organizes inter-hostel and inter-college tournaments throughout the year, while also coordinating with external bodies for participation in national-level events like Inter-IIT Sports Meets. With well-equipped sports facilities, including courts for badminton, basketball, volleyball, and a dedicated gym, students are provided with the infrastructure to train and excel.",
+      "The Sports Secretary, along with deputy secretaries and student coordinators, ensures smooth conduct of all events and continuously works to enhance sporting facilities and training opportunities. Whether you're an experienced athlete or someone who just wants to stay fit, the Sports Council is here to help you stay active, competitive, and motivated."
+    ],
+    "galleryTitle": "Glimpses from the Field",
+    "galleryImages": [
+      "/council/sports/photo1.webp",
+      "/council/sports/photo2.webp",
+      "/council/sports/photo3.webp",
+      "/council/sports/photo4.webp",
+      "/council/sports/photo5.webp"
+    ]
+  }
+}

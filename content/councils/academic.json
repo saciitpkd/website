@@ -1,0 +1,31 @@
+{
+  "council": {
+    "council_name": "academic",
+    "council_title": "Academic Council",
+    "council_email": "acadcouncil@smail.iitpkd.ac.in",
+    "secretary": {
+      "name": "Divesh Mishra",
+      "full_name": "Divesh Mishra",
+      "email": "sec_acad@smail.iitpkd.ac.in",
+      "studentEmail": "102201019@smail.iitpkd.ac.in"
+    },
+    "deputies": []
+  },
+  "page": {
+    "aboutTitle": "About the Academic Council",
+    "aboutParagraphs": [
+      "Academics play a central role in any students' college life; and at a premiere institute such as an IIT, the academic life becomes all the more important to the development of a budding engineer or a scientist or a start-up innovator. Therefore, it becomes utmost important for the students to have a representative with regards to the academics of the institute.",
+      "The elected Academic Affairs Secretary carries the principal responsibility of looking out for the interests of all the students concerned and to help or suggest actions with whatever issues faced by any of the student community and in nurturing and supporting a healthy academic life for students. The secretary is also primarily concerned with disseminating any information on academic matters that is crucial to the knowledge of the student body.",
+      "The Career Development Centre (CDC) works with the Academic Affairs Secretary, along with a training and placement officer, faculty advisors, and branch representatives constituting the team. The Academic Affairs Secretary also overlooks the recently formed alumni association of IIT Palakkad, which was registered on July 26, 2019, aiming to nurture and maintain good relationships with our alumnus even after graduation.",
+      "The Secretary also works closely with Dean, Academic Research, besides Dean, Academics, to provide better guidance and infrastructure to the students who are interested in further studies.",
+      "Dean, Academics: deanacad@iitpkd.ac.in"
+    ],
+    "galleryTitle": "Academic Activities",
+    "galleryImages": [
+      "/council/academic/photo1.webp",
+      "/council/academic/photo2.webp",
+      "/council/academic/photo3.webp",
+      "/council/academic/photo4.webp"
+    ]
+  }
+}

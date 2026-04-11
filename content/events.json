@@ -1,0 +1,22 @@
+[
+  {
+    "organizer": "Technical Council",
+    "title": "Example workshop",
+    "description": "Replace with real events in content/events.json.",
+    "start_time": "2026-05-15T14:00:00+05:30",
+    "end_time": "2026-05-15T17:00:00+05:30",
+    "council": "technical",
+    "council_name": "technical",
+    "council_title": "Technical Council"
+  },
+  {
+    "organizer": "Cultural Council",
+    "title": "Open mic night",
+    "description": "Sample calendar entry.",
+    "start_time": "2026-05-20T18:30:00+05:30",
+    "end_time": "2026-05-20T21:00:00+05:30",
+    "council": "cultural",
+    "council_name": "cultural",
+    "council_title": "Cultural Council"
+  }
+]

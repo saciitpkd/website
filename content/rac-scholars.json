@@ -1,0 +1,1186 @@
+[
+  {
+    "name": "Rishit R Rajpopat",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212214004",
+    "interests": [
+      "Functional analysis, Geometry of Banach spaces"
+    ],
+    "skills": [
+      "Solving math problems, logical skills"
+    ],
+    "latex": false
+  },
+  {
+    "name": "kiran c",
+    "department": "Biological Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/172504003",
+    "interests": [
+      "Microbiology, biotechnology, biochemistry, molecular biology techniques"
+    ],
+    "skills": [
+      "Basic techniques for all biological science"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Devika V",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202504004",
+    "interests": [
+      "Flourescence Spectroscopy"
+    ],
+    "skills": [],
+    "latex": false
+  },
+  {
+    "name": "Navaneetha E P",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212404003",
+    "interests": [
+      "Graph Theory and Combinatorics, Linear Algebra"
+    ],
+    "skills": [
+      "Computational  &amp;  Technical Skills (C programming and overleaf)"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Muhammad usman a h",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122414013",
+    "interests": [
+      "Analog_circuits,Embedded_systems,Mechanical_design"
+    ],
+    "skills": [
+      "Arduino,Pcb_design,Analog_circuits, Sensor_design,3D_Modelling"
+    ],
+    "latex": true
+  },
+  {
+    "name": "SIJISHA DEVIDAS",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202404005",
+    "interests": [
+      "Organic Synthesis and Characterization"
+    ],
+    "skills": [
+      "Synthesis and Purification Technique (Column chromatography)"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Sreenath B.",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122414021",
+    "interests": [
+      "Power System Protection and Relaying"
+    ],
+    "skills": [
+      "Simulation studies in PSCAD/SIMULINK, MATLAB and Python coding"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Rakesh S S",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132414011",
+    "interests": [
+      "Acoustics and Vibration"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Gayathri R",
+    "department": "Data Science",
+    "contactUrl": "https://iitpkd.ac.in/people/142214002",
+    "interests": [
+      "Natural Language Processing, Information Retrieval"
+    ],
+    "skills": [
+      "Python"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Sabareesh V",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132104004",
+    "interests": [
+      "Thermal and fluids engineering"
+    ],
+    "skills": [
+      "Thermal engineering measurements lab"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Arata Pradhan",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132304001",
+    "interests": [
+      "Micro Machining: micro-EDM, wire-EDM, micro-turning, Laser Machining, micro-Milling, diamond turning"
+    ],
+    "skills": [
+      "Programming, Experiments"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Aiswarya B Babu",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404003",
+    "interests": [
+      "Hydrological modeling"
+    ],
+    "skills": [
+      "Teaching"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Athira K",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222314003",
+    "interests": [
+      "Colloidal Physics"
+    ],
+    "skills": [
+      "Imagej analysis, klayout"
+    ],
+    "latex": false
+  },
+  {
+    "name": "VIDYA A P",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122404002",
+    "interests": [
+      "Robotics"
+    ],
+    "skills": [
+      "Simulation(Gazebo/Matlab), ROS"
+    ],
+    "latex": true
+  },
+  {
+    "name": "AMALA E G",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122404004",
+    "interests": [
+      "Control and Robotics"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Nitheesh K",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102004004",
+    "interests": [
+      "Traffic and Transportation Planning, Road Network Resilience, Risk-averse Evacuation Planning"
+    ],
+    "skills": [
+      "Literature review and synthesis, Optimization techniques, Data analysis and visualization, Academic writing, Technical presentations."
+    ],
+    "latex": true
+  },
+  {
+    "name": "CHINJU SAJU",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102314004",
+    "interests": [
+      "Water Resources Engineering, Land and water management engineering, Agricultural Engineering"
+    ],
+    "skills": [
+      "Rainfall- runoff modelling, soil moisture modelling"
+    ],
+    "latex": false
+  },
+  {
+    "name": "SIVARANJINI P N",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122314007",
+    "interests": [
+      "Signal and Image Processing, Biomedical Signal Processing"
+    ],
+    "skills": [
+      "Signal Processing, Image Processing, Computer Vision, Linear Algebra, Deep Learning, Arduino Programming, Raspberry Pi"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Anson Mathew",
+    "department": "Biological Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/172503001",
+    "interests": [
+      "Biosensors, Electrochemistry, Biomedical Engineering"
+    ],
+    "skills": [
+      "Biological analyte sensing, biomedical engineering applications"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Rekha",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122014008",
+    "interests": [
+      "Measurements &amp; Instrumentation, Analog electronics"
+    ],
+    "skills": [
+      "Analog Circuit design"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Priyesh Padmanabhan",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132304004",
+    "interests": [
+      "Micro and nano machining"
+    ],
+    "skills": [],
+    "latex": false
+  },
+  {
+    "name": "Harikrishnan K J",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222204002",
+    "interests": [
+      "Quantum information/computation"
+    ],
+    "skills": [
+      "Problem solving, coding, teaching, experimenting"
+    ],
+    "latex": true
+  },
+  {
+    "name": "krishnaveni",
+    "department": "Computer Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/112114004",
+    "interests": [
+      "Programmable Networks, XDP,eBPF"
+    ],
+    "skills": [
+      "Network Programming , System/Network configuration in Linux environments, Network trouble shooting and debugging"
+    ],
+    "latex": true
+  },
+  {
+    "name": "BALINENI PRASAD",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202404010",
+    "interests": [
+      "chemistry,photography"
+    ],
+    "skills": [
+      "teaching, story narration, photography, editing"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Jithin Das M",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314004",
+    "interests": [
+      "additive manufacturing, modelling and analysis,"
+    ],
+    "skills": [
+      "Teaching, Managing and coordinating events, Comprehensive writing,"
+    ],
+    "latex": true
+  },
+  {
+    "name": "ANNA S VARGHIS",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122404003",
+    "interests": [
+      "CONTROL AND ROBOTICS"
+    ],
+    "skills": [
+      "MATLAB, SIMULINK, C"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Vishnu Suresh M S",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202404001",
+    "interests": [
+      "Computational Chemistry"
+    ],
+    "skills": [
+      "Chemistry"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Ajju R Justus",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132204001",
+    "interests": [
+      "Acoustics"
+    ],
+    "skills": [
+      "Comsol(Acoustics), Acoustic Impedance tube experiments, Latex"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Swathi",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222004008",
+    "interests": [
+      "Quantum mechanics, Quantum field theory"
+    ],
+    "skills": [
+      "Quantum mechanics, Quantum field theory"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Hrithik Suresh",
+    "department": "Data Science",
+    "contactUrl": "https://iitpkd.ac.in/people/142314001",
+    "interests": [
+      "Machine Learning, Optimization"
+    ],
+    "skills": [
+      "Programming"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Suraj Chandrabhan Singh",
+    "department": "Biological Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/172204001",
+    "interests": [
+      "R programming, Immunology, protein biology"
+    ],
+    "skills": [
+      "Docker"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Athira S",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222414005",
+    "interests": [
+      "Weather radar studies, Distributed beam forming"
+    ],
+    "skills": [
+      "Time management, Adaptability, Team work, presentation skills"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Silpa Sekhar G",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102314011",
+    "interests": [
+      "Pavement Management Systems (PMS), Intelligent Transportation Systems (ITS)"
+    ],
+    "skills": [
+      "Pavement data analysis using ML techniques Pavement evaluation Pavement Design Pavement performance modelling PMS software tools Pavement maintenance and rehabilitation activities\u2014optimization and prioritization Emergency vehicle preemption system"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Aashish EV",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314001",
+    "interests": [
+      "Additive-Manufacturing, Composites"
+    ],
+    "skills": [
+      "Web-designing web-developing, digital art."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Mohan Raj P",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132204002",
+    "interests": [
+      "Metal joining, Additive manufacturing."
+    ],
+    "skills": [
+      "Linear friction welding, numerical modelling, material characterization, scanning electron microscope."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Issac J",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404007",
+    "interests": [
+      "Subgrade stabilization, geogrid reinforcement"
+    ],
+    "skills": [
+      "Painting, drawing, photoshop"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Yusra Moidutty",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122413010",
+    "interests": [
+      "Deep Learning,  Machine Learning , Image processing , linear algebra"
+    ],
+    "skills": [
+      "Programming expert , time and team management,  expert in taking class for the above area of research and Programming language. Software based equipments (repairs), Windows- linux"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Athul Krishna P V",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222204001",
+    "interests": [
+      "Theoretical Soft Matter Physics, Computational Physics"
+    ],
+    "skills": [
+      "Coding in Python, Linux"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Ganjimala Pavankumar",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122014005",
+    "interests": [
+      "Mapping algorithms to hardware architectures"
+    ],
+    "skills": [
+      "Verilog, FPGA, Embedded systems, PCB design"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Gibin George",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132214005",
+    "interests": [
+      "Grinding manufacturing process, thermal effects in machining"
+    ],
+    "skills": [
+      "Metallurgical analysis, image processing"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Ayyappadas Rajagopal",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122004004",
+    "interests": [
+      "Networked control system, Communication"
+    ],
+    "skills": [
+      "Research and Programming"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Chandana",
+    "department": "Computer Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/112303001",
+    "interests": [
+      "Computational complexity, Algorithms, Qualitative Interview, Discourse Analysis"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Roshni M",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202014003",
+    "interests": [
+      "Thermal catalysis, Material charecterization"
+    ],
+    "skills": [
+      "Synthesis of materials"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Srinath Guhaprasad",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212204001",
+    "interests": [
+      "Algebra, Analysis."
+    ],
+    "skills": [
+      "Latex."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Gokul Santhosh",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212304003",
+    "interests": [
+      "Partial differential equations"
+    ],
+    "skills": [
+      "."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Sruthi Surendran",
+    "department": "ESSENCE",
+    "contactUrl": "https://iitpkd.ac.in/people/162114001",
+    "interests": [
+      "Photosynthesis, evapotranspiration, stomatal conductance, crop modelling"
+    ],
+    "skills": [],
+    "latex": false
+  },
+  {
+    "name": "Chandrima B Pushpan",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222204004",
+    "interests": [
+      "Quantum information, Quantum many body systems"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Arundas Odungat",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132104001",
+    "interests": [
+      "Lithium ion battery electro chemistry, heat transfer, IR imaging, fluid flow, time series modelling"
+    ],
+    "skills": [
+      "Neural network, deep learning, fluid flow and heat transfer simulation, optimisation"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Amish Kumar Aman",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102304001",
+    "interests": [
+      "Nonlocal Damage Mechanics"
+    ],
+    "skills": [
+      "Numerical Simulations"
+    ],
+    "latex": true
+  },
+  {
+    "name": "K. Raj Kumar",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404008",
+    "interests": [
+      "Transportation planning, urban road network morphology"
+    ],
+    "skills": [
+      "Modeling and analyzing road networks, NetworkX, OSMnx"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Ajith U K Nair",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132214001",
+    "interests": [
+      "Combustion, Heat Transfer"
+    ],
+    "skills": [
+      "OpenFOAM"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Nandakumar E",
+    "department": "Computer Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/112314001",
+    "interests": [
+      "Systems Software, Performance Engineering, Compilers, Programming Languages, GNU/Linux, Web Development, Graphics"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Sreenath V R",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132004003",
+    "interests": [
+      "Thermal Engineering"
+    ],
+    "skills": [
+      "Thermal Design and Analysis"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Aarathy S S",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404005",
+    "interests": [
+      "Reiforced soil modeling"
+    ],
+    "skills": [
+      "FEA, Geosynthetic reinforcement design, material characterization and constitutive modeling"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Olivia Vincent",
+    "department": "Physics",
+    "contactUrl": "https://iitpkd.ac.in/people/222204005",
+    "interests": [
+      "Fluorescence microscopy"
+    ],
+    "skills": [
+      "Handling fluorescence microscope, image analysis"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Anchu Ajayakumar",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102104001",
+    "interests": [
+      "Construction Engineering and management"
+    ],
+    "skills": [
+      "Construction methods and materials, Project planning and scheduling, Estimation and contract management"
+    ],
+    "latex": true
+  },
+  {
+    "name": "ARUN SHAL U. B.",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132414010",
+    "interests": [
+      "Computational Fluid Dynamics, Numerical Methods, Thermal &amp; Fluids Engineering"
+    ],
+    "skills": [
+      "Heat transfer and fluid flow analysis, Design of thermal systems"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Mohammed Shafeeque KK",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/131814002",
+    "interests": [
+      "Solid mechanics, fracture mechanics, Finite element method"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Surendar K",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132304005",
+    "interests": [
+      "3D metal printing, surface finishing"
+    ],
+    "skills": [
+      "Surface finishing of metal additive manufacturing, thermal analysis of grinding"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Sirajudheen C H",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102104005",
+    "interests": [
+      "Structural Engineering, Composite Mechanics, Experimental mechanics Experimental mec Ex"
+    ],
+    "skills": [
+      "Finite Element Analysis (FEA), Digital Image Correlation (DIC), and Numerical Modeling of Fibrous Composite Materials."
+    ],
+    "latex": false
+  },
+  {
+    "name": "Ajul E",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/131914001",
+    "interests": [
+      "Interface heat transfer modeling and experiments, Heat transfer simulations using COMSOL Multiphysics, Experiments in outer-space conditions, Thremal management of spacecraft and electronics"
+    ],
+    "skills": [
+      "Heat transfer experiments in outer-space conditions, Technical writing, Thremal management of spacecraft and electronics."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Bijin Elsa Baby",
+    "department": "Data Science",
+    "contactUrl": "https://iitpkd.ac.in/people/112114006",
+    "interests": [
+      "DNN (Deep Neural Network) hardware accelerators"
+    ],
+    "skills": [
+      "Technical Skills: Programming \u2013 C, C++, Python, Verilog (Hardware Description Language) ; Tools \u2013 Vivado, Arduino IDE; Databases \u2013 MySQL"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Nikhil Mondal",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202414003",
+    "interests": [
+      "Computational Chemistry, Computational Catalysis"
+    ],
+    "skills": [
+      "Still learning and evolving"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Surendra Mohan K S",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132504003",
+    "interests": [
+      "Magnetron sputtered metal nitride and carbide based hard coatings, biodegradable metallic implants"
+    ],
+    "skills": [
+      "PVD techniques operation (majorly magnetron sputtering), electrochemical corrosion measurements, pin on disc tribometer, corrosion and biomineralization analysis by immersion test, synthesis- simulated body fluid, graphene oxide, mos2 etc., structural and elemental analysis (XRD, XPS, SEM, AFM etc. )"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Ubaidulla",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132304006",
+    "interests": [
+      "Thermal Energy Storage"
+    ],
+    "skills": [
+      "Solidworks"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Chimme Praveen Kumar",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132214002",
+    "interests": [
+      "Laser polishing, Laser texturing, 3D printing"
+    ],
+    "skills": [
+      "CAD modeling, 3D printing"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Neethu M",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122314003",
+    "interests": [
+      "Microwave Couplers, Microwave Power Dividers, Antenna Beam Forming Circuit Design."
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "M KEERTHANA",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202314003",
+    "interests": [
+      "Organic Chemistry, Synthestic Chemistry, Characterization"
+    ],
+    "skills": [
+      "Purification methods, Characterization methods"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Yohaeswari J",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202404003",
+    "interests": [
+      "(Inorganic Chemistry )Design and Synthesis of Coordination Polymers and Metal Organic Frameworks"
+    ],
+    "skills": [
+      "Purification techniques like Column Chromatography."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Mayank Pandey",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122503001",
+    "interests": [
+      "Control and Robotics, Mathematics"
+    ],
+    "skills": [
+      "Teaching Mathematics, Fighting, Shooting, Horse Riding, Working with robots."
+    ],
+    "latex": true
+  },
+  {
+    "name": "Aravind Jayan",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122413006",
+    "interests": [
+      "Electronics, Embedded Systems, Firmware Development, FPGAs, PCB Design"
+    ],
+    "skills": [
+      "Software, Hardware, PCB Design, Debugging, Production"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Tamoghna Kar",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212414003",
+    "interests": [
+      "Geomtry &amp; Topology, Basic Mathematics Undergraduate levels"
+    ],
+    "skills": [
+      "Critical thinking"
+    ],
+    "latex": true
+  },
+  {
+    "name": "D Anand Praveen",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102114009",
+    "interests": [
+      "Landslides Mitigation"
+    ],
+    "skills": [
+      "Nothing"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Krishnapriya A U",
+    "department": "Chemistry",
+    "contactUrl": "https://iitpkd.ac.in/people/202214004",
+    "interests": [
+      "Density functional theory studies ( Computational Chemistry)"
+    ],
+    "skills": [
+      "Computational Chemistry tools, Mechanistic investigation, Transition state modeling, Molecular orbital analysis"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Ashsh Biju Varghese",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122414002",
+    "interests": [
+      "Signal Processing, VLSI"
+    ],
+    "skills": [],
+    "latex": true
+  },
+  {
+    "name": "Sudhanyasree P R",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102504008",
+    "interests": [
+      "Water Resource Engineering, Earth and Climate Sciences; Geoinformatics"
+    ],
+    "skills": [
+      "Hydrological modelling"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Anu Mathew",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122414020",
+    "interests": [
+      "Error Correcting Codes"
+    ],
+    "skills": [
+      "Logical Reasoning"
+    ],
+    "latex": true
+  },
+  {
+    "name": "ROHINI G NAIR",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102414009",
+    "interests": [
+      "Structural Engineering"
+    ],
+    "skills": [
+      "Team work skill"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Remya G",
+    "department": "Data Science",
+    "contactUrl": "https://iitpkd.ac.in/people/142414004",
+    "interests": [
+      "Machine learning"
+    ],
+    "skills": [
+      "Presentations"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Praveen Kumar Yadav",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122313003",
+    "interests": [
+      "Vlsi design , signal processing and imaging"
+    ],
+    "skills": [
+      "Leadership, communication skill, teaching skill, expert in my technical area"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Aiswaria G R",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404004",
+    "interests": [
+      "Building materials, Material Characterisation, Structural analysis"
+    ],
+    "skills": [
+      "Leadership, team building, design thinking"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Sudha Gautam",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102414004",
+    "interests": [
+      "Soil Stabilization , Landslide mitigation measures"
+    ],
+    "skills": [],
+    "latex": false
+  },
+  {
+    "name": "Thomas John",
+    "department": "Data Science",
+    "contactUrl": "https://iitpkd.ac.in/people/142314002",
+    "interests": [
+      "Deep Learning, Computer Vision"
+    ],
+    "skills": [
+      "Data Analytics, Computer Programming"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Jadeera Aboobaker",
+    "department": "ESSENCE",
+    "contactUrl": "https://iitpkd.ac.in/people/162404003",
+    "interests": [
+      "Climate, Environment, Ecology, Palaeoclimate."
+    ],
+    "skills": [
+      "ArcGIS"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Vismaya K",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102114008",
+    "interests": [
+      "Building Information Modelling"
+    ],
+    "skills": [
+      "Writing, communication, time management etc."
+    ],
+    "latex": false
+  },
+  {
+    "name": "ABINESH COLIN A",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404002",
+    "interests": [
+      "Remote sensing and GIS"
+    ],
+    "skills": [
+      "Handling Geospatial Datasets"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Vyshak Pillai",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314007",
+    "interests": [
+      "Refrigeration"
+    ],
+    "skills": [
+      "MS office"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Ragupathi A P",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314005",
+    "interests": [
+      "Renewable energy"
+    ],
+    "skills": [
+      "MS office"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Rohit Palamoottil",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314006",
+    "interests": [
+      "Thermofluids , Robotics"
+    ],
+    "skills": [
+      "Experimental and numerical in area thermofluids"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Kalanji Rugesh",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102404006",
+    "interests": [
+      "Geotechnical Engineering, Geothermal Energy Extraction and Storage"
+    ],
+    "skills": [],
+    "latex": false
+  },
+  {
+    "name": "D R Cheran",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132413002",
+    "interests": [
+      "Solid Mechanics"
+    ],
+    "skills": [
+      "Mechanics of Composite materials, Finite Deformation"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Bharathi T",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212114004",
+    "interests": [
+      "Several Complex Variables, Riemann Surfaces, Metric Geometry"
+    ],
+    "skills": [
+      "Latex"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Haritha M",
+    "department": "Biological Science & Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/172504001",
+    "interests": [
+      "PCR, designing drug delivery system"
+    ],
+    "skills": [
+      "PCR, enzyme assays, cell culture"
+    ],
+    "latex": false
+  },
+  {
+    "name": "M Rajesh Kumar",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132403003",
+    "interests": [
+      "Fuel cell"
+    ],
+    "skills": [
+      "Design and fluid simulations"
+    ],
+    "latex": false
+  },
+  {
+    "name": "Alka Remesh A",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102504013",
+    "interests": [
+      "Water resources engineering"
+    ],
+    "skills": [
+      "Programming, Technical, communication"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Vishnu B Raj",
+    "department": "Data Science",
+    "contactUrl": "https://iitpkd.ac.in/people/142204003",
+    "interests": [
+      "Explainable Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, LLM, Micro controllers (eg.arduino), Micro processors (eg.raspberry pi))), HPC Cluster, Docker, CUDA"
+    ],
+    "skills": [
+      "Coding, Entrepreneurship"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Chamind E C",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314003",
+    "interests": [
+      "Finishing Technology, Post-Processing of Additive Manufactured Components"
+    ],
+    "skills": [
+      "Teaching, Organizing Events, Kalaripayattu, Yoga"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Arthy K",
+    "department": "Electrical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/122313001",
+    "interests": [],
+    "skills": [
+      "Nilnil"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Amar Singh",
+    "department": "Mathematics",
+    "contactUrl": "https://iitpkd.ac.in/people/212404006",
+    "interests": [
+      "Algebra"
+    ],
+    "skills": [
+      "Problem solving skills ( In particular related to Modern Algebra , Linear Algebra and Finite fields)"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Ajay Krishnan V",
+    "department": "Mechanical Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/132314002",
+    "interests": [
+      "Robotics, CAD"
+    ],
+    "skills": [
+      "CAD, 3D Printing, Component Design"
+    ],
+    "latex": true
+  },
+  {
+    "name": "Ezhilarasan T",
+    "department": "Civil Engineering",
+    "contactUrl": "https://iitpkd.ac.in/people/102314006",
+    "interests": [
+      "Structural Engineering"
+    ],
+    "skills": [
+      "DIC"
+    ],
+    "latex": true
+  }
+]

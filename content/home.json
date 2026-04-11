@@ -1,0 +1,135 @@
+{
+  "aboutUs": "The Student Affairs Council (SAC) of IIT Palakkad is a vibrant and representative body committed to enhancing student life and ensuring the overall well-being of the student community. As the collective voice of the students, SAC acts as a crucial bridge between the student body and the institute administration. Comprising elected student secretaries and their respective councils, SAC oversees a diverse range of student-led initiatives, addressing academic, cultural, technical, sports, hostel, research, and post-graduate concerns. The council works actively to represent student interests, address grievances, and promote constructive dialogue with relevant authorities. Through the operation of various sub-departments and clubs, SAC empowers students to lead, collaborate, and contribute meaningfully to campus life.",
+  "councilsIntro": "The councils at IIT Palakkad play a pivotal role in enhancing the campus experience by promoting student leadership, collaboration, and innovation across various domains. Each council is dedicated to a specific aspect of student life, be it academics, culture, sports, or technology, providing students with the opportunity to develop their skills, contribute to the community, and lead impactful initiatives. These councils work closely with faculty, administration, and industry professionals to organize events, workshops, and activities that foster growth, creativity, and personal development. Through their diverse activities, the councils ensure that every student has the opportunity to engage with their interests, cultivate leadership qualities, and make meaningful contributions to both the college and society.",
+  "aboutGallery": [
+    "/council/photo9.webp",
+    "/council/photo7.webp",
+    "/council/photo19.webp",
+    "/council/photo16.webp",
+    "/council/photo10.webp"
+  ],
+  "councilGallery": [
+    "/council/photo13.webp",
+    "/council/photo17.webp",
+    "/council/photo18.webp",
+    "/council/photo12.webp",
+    "/council/photo14.webp"
+  ],
+  "deanOffice": [
+    {
+      "name": "Dr. Deepak Rajendraprasad",
+      "title": "Associate Professor in Computer Science & Engineering and Dean of Student Affairs",
+      "email": "deanstudents@iitpkd.ac.in",
+      "image": "/people/DeepakR.webp"
+    },
+    {
+      "name": "S Samuel",
+      "title": "Advisor (Student Matters)",
+      "email": "samuel@iitpkd.ac.in",
+      "image": "/people/Samuel.webp"
+    }
+  ],
+  "secretariesDisplayYear": "2025",
+  "secretariesByYear": {
+    "2024": [
+      {
+        "name": "Karthikeya B",
+        "title": "Students General Secretary",
+        "email": "gen_sec@smail.iitpkd.ac.in",
+        "image": "/student/112101006@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "C V Tirumala Rao ",
+        "title": "Technical Affairs Secretary",
+        "email": "sec_tech@smail.iitpkd.ac.in",
+        "image": "/student/122101043@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "D. Sai Hemanth Reddy",
+        "title": "Academic Affairs Secretary",
+        "email": "sec_acad@smail.iitpkd.ac.in",
+        "image": "/student/112101014@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Kishore S K",
+        "title": "Cultural Affairs Secretary",
+        "email": "sec_arts@smail.iitpkd.ac.in",
+        "image": "/student/122201019@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Dipanshu Dutta",
+        "title": "Sports Affairs Secretary",
+        "email": "sec_sports@smail.iitpkd.ac.in",
+        "image": "/student/102101014@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Bhaskar",
+        "title": "Post Graduate Affairs Secretary",
+        "email": "sec_pg@smail.iitpkd.ac.in",
+        "image": "/student/142302004@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Revanth Juvvala",
+        "title": "Hostel Affairs Secretary",
+        "email": "sec_hostel@smail.iitpkd.ac.in",
+        "image": "/student/112101021@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Ajju R Justus",
+        "title": "Research Affairs Secretary",
+        "email": "sec_ra@smail.iitpkd.ac.in",
+        "image": "/student/132204001@smail.iitpkd.ac.in/photo.webp"
+      }
+    ],
+    "2025": [
+      {
+        "name": "Dhaarini M",
+        "title": "Students General Secretary",
+        "email": "gen_sec@smail.iitpkd.ac.in",
+        "image": "/student/102201009@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Varun Jha",
+        "title": "Technical Affairs Secretary",
+        "email": "sec_tech@smail.iitpkd.ac.in",
+        "image": "/student/112301036@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Divesh Mishra",
+        "title": "Academic Affairs Secretary",
+        "email": "sec_acad@smail.iitpkd.ac.in",
+        "image": "/student/102201019@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Joy Patel",
+        "title": "Cultural Affairs Secretary",
+        "email": "sec_arts@smail.iitpkd.ac.in",
+        "image": "/student/132201022@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Amuluru Pavan Sai",
+        "title": "Sports Affairs Secretary",
+        "email": "sec_sports@smail.iitpkd.ac.in",
+        "image": "/student/122201022@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Geddam Gowtham",
+        "title": "Post Graduate Affairs Secretary",
+        "email": "sec_pg@smail.iitpkd.ac.in",
+        "image": "/student/142402006@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Koshal Kumar",
+        "title": "Hostel Affairs Secretary",
+        "email": "sec_hostel@smail.iitpkd.ac.in",
+        "image": "/student/122301022@smail.iitpkd.ac.in/photo.webp"
+      },
+      {
+        "name": "Chamind Erakkil",
+        "title": "Research Affairs Secretary",
+        "email": "sec_ra@smail.iitpkd.ac.in",
+        "image": "/student/132314003@smail.iitpkd.ac.in/photo.webp"
+      }
+    ]
+  }
+}

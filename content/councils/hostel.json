@@ -1,0 +1,30 @@
+{
+  "council": {
+    "council_name": "hostel",
+    "council_title": "Hostel Affairs Council",
+    "council_email": "hostelcouncil@smail.iitpkd.ac.in",
+    "secretary": {
+      "name": "Koshal Kumar",
+      "full_name": "Koshal Kumar",
+      "email": "sec_hostel@smail.iitpkd.ac.in",
+      "studentEmail": "122301022@smail.iitpkd.ac.in"
+    },
+    "deputies": []
+  },
+  "page": {
+    "aboutTitle": "About Hostel Affairs Council",
+    "aboutParagraphs": [
+      "At IIT Palakkad, we firmly believe that a supportive and nurturing environment is fundamental to enhancing the productivity and well-being of our students. In pursuit of this vision, the Hostel Affairs Council, under the leadership of the Hostel Affairs Secretary, is committed to fostering a hostel environment that promotes academic excellence, innovation, and holistic development.",
+      "The Institute currently operates across two campuses: the Nila Campus and the Sahyadri Campus. The Nila Campus houses two hostels: Tilang (subdivided into Tilang A and Tilang B) and Brindavani. The Sahyadri Campus accommodates two hostels: Saveri and Malhar.",
+      "To ensure effective communication and swift resolution of student concerns, each hostel has designated wing-wise representatives. These representatives act as the primary liaison between the students and the Hostel Affairs Council, facilitating the reporting and addressing of issues related to hostel facilities and mess services. Furthermore, a dedicated coordinator supervises hostel affairs across both campuses, assisting the Hostel Affairs Secretary in identifying and addressing student needs promptly and efficiently.",
+      "Through these measures, we strive to create a residential environment that empowers students to achieve their fullest potential."
+    ],
+    "galleryTitle": "Hostel Life at IITPKD",
+    "galleryImages": [
+      "/council/hostel/photo1.webp",
+      "/council/hostel/photo2.webp",
+      "/council/hostel/photo3.webp",
+      "/council/hostel/photo4.webp"
+    ]
+  }
+}

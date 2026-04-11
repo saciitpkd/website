@@ -1,0 +1,73 @@
+{
+  "coordinator": [
+    {
+      "name": "Nilesh Jamre",
+      "role": "Frontend + Backend developer",
+      "image": "/developers/nilesh.webp",
+      "github": "https://github.com/Nilesh-11",
+      "linkedin": "https://linkedin.com/in/nileshjamre"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Hemant Pathak",
+      "role": "Frontend Lead",
+      "image": "/developers/hemantpathak.webp",
+      "github": "https://github.com/hemant030406",
+      "linkedin": "https://www.linkedin.com/in/hemant030406/"
+    },
+    {
+      "name": "Kaushik Rawat",
+      "role": "Backend Lead",
+      "image": "/developers/kaushikrawat.webp",
+      "github": "https://github.com/enchanteddev",
+      "linkedin": "https://www.linkedin.com/in/kaushik-rawat/"
+    }
+  ],
+  "developers": [
+    {
+      "name": "Devapriya Pradeep",
+      "role": "Frontend Developer",
+      "image": "/developers/girl.webp",
+      "github": "https://github.com/aadi-sun",
+      "linkedin": "https://www.linkedin.com/in/devapriya-pradeep-36a643331/"
+    },
+    {
+      "name": "Vishesh Srivastava",
+      "role": "Frontend Developer",
+      "image": "/developers/vishesh.webp",
+      "github": "https://github.com/Iambeastofhell",
+      "linkedin": "https://www.linkedin.com/in/vishesh-srivastava-85a799301/"
+    },
+    {
+      "name": "Zeeshan Mohammed Rangrej",
+      "role": "Frontend Developer",
+      "image": "/developers/zeeshan.webp",
+      "github": "https://github.com/Zeeshan1903",
+      "linkedin": "https://www.linkedin.com/in/zeeshan-mohammed-rangrej-946ab927b/"
+    },
+    {
+      "name": "Abhishek Iyer",
+      "role": "Frontend Developer",
+      "image": "/developers/abhishek.webp",
+      "github": "https://github.com/Abhi-Iyer10",
+      "linkedin": "https://www.linkedin.com/in/abhishek-iyer-9394a0321/"
+    },
+    {
+      "name": "Shubham Yadav",
+      "role": "Frontend Developer",
+      "image": "/developers/boy.webp",
+      "github": "https://github.com/Shubham04567",
+      "linkedin": "https://www.linkedin.com/in/abhishek-iyer-9394a0321/"
+    }
+  ],
+  "designers": [
+    {
+      "name": "Nakul C",
+      "role": "Web Designer",
+      "image": "/developers/nakul.webp",
+      "github": "https://github.com/Nakul-Hari",
+      "linkedin": "https://www.linkedin.com/in/nakul-hari-6b4888234/"
+    }
+  ]
+}

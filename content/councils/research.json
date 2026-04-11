@@ -1,0 +1,31 @@
+{
+  "council": {
+    "council_name": "research",
+    "council_title": "Research Affairs Council",
+    "council_email": "researchcouncil@smail.iitpkd.ac.in",
+    "secretary": {
+      "name": "Chamind Erakkil",
+      "full_name": "Chamind Erakkil",
+      "email": "sec_ra@smail.iitpkd.ac.in",
+      "studentEmail": "132314003@smail.iitpkd.ac.in"
+    },
+    "deputies": []
+  },
+  "page": {
+    "aboutTitle": "About Research Affairs Council",
+    "aboutParagraphs": [
+      "The Research Affairs Council (RAC) has a crucial role in shaping the needed atmosphere for progressive research in the institute. The research wing of the institute brings glory to the institute through the unconditional efforts which leads to numerous publications, travel grants, awards, fellowships and many other recognitions. The support from the RAC is crucial in the overall development of the research standards and the research oriented activities happening in the institute. The council is keen to organise the programs, conferences, lectures, workshops, presentations and seminars which not only foster the technical research but also improves the skill, efficiency, creativity and good mental health of the researchers.",
+      "The RAC is the vital forum which compiles all the suggestions, needs and feedback of the entire research community and catalyses it into action through the respective Research Affairs Secretary. The systematically and democratically formed council has dedicated representatives for Academics, Technical, Administration, Sports, Cultural, Media and MS representative. And all these members act as nominated members from research to the respective councils.",
+      "The Research Affairs Secretary (RAS) holds the sole responsibility to represent the entire research community in all possible matters. The research related issues, needs, improvements, activities and representation will be properly carried out and duly followed up by the RAS. Anything and everything related to the research scholars or the research community will be critically analysed and properly reported by the RAS and always encourage fruitful discussions among researchers for the overall development of the community.",
+      "The Research Scholars' Day being the flagship event of the research community of the institution was carried out under the convenorship of the RAS, the formed RSD committee and the staff coordinators. More details about the event can be found at https://rsd.iitpkd.ac.in",
+      "The legacy of research in the institute is always carried forward and fostered by the RAC. The unwavering efforts, skillful plans, progressive vision and timely execution of the council retains the success of the research activities, particularly the unity and well being of the researchers."
+    ],
+    "galleryTitle": "Research Life at IITPKD",
+    "galleryImages": [
+      "/council/research/photo1.webp",
+      "/council/research/photo2.webp",
+      "/council/research/photo3.webp",
+      "/council/research/photo4.webp"
+    ]
+  }
+}
