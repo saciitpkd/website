@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { MdArrowDropDown, MdMenu } from "react-icons/md";
+import { withBasePath } from "@/lib/basePath";
 
 const nav = [
   { label: "Home", href: "/" },
@@ -44,7 +45,7 @@ export function SiteHeader() {
       className="sticky top-0 z-50 border-b border-white/10 py-2 transition-colors"
       style={{
         background: `rgba(0,0,0,${opacity})`,
-        backgroundImage: "url('/background.webp')",
+        backgroundImage: `url('${withBasePath("/background.webp")}')`,
         backgroundSize: "cover",
       }}
     >
@@ -52,7 +53,7 @@ export function SiteHeader() {
         <Link href="/" className="mr-auto flex items-center py-1">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/sac/saclogo_horizontal.webp"
+            src={withBasePath("/sac/saclogo_horizontal.webp")}
             alt="SAC IIT Palakkad"
             className="h-8 w-auto sm:h-10"
           />
