@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { FaEnvelope, FaInfoCircle, FaUser, FaUsers } from "react-icons/fa";
+import { withBasePath } from "@/lib/basePath";
 import type { CouncilData } from "@/types/content";
 
 type Props = {
@@ -19,7 +20,7 @@ export function LeadershipSection({ council, councilTitle }: Props) {
       <div className="flex flex-col gap-4 sm:flex-row">
         <div className="flex justify-center sm:justify-start">
           <Image
-            src={photoSrc}
+            src={withBasePath(photoSrc)}
             alt={council.secretary.full_name}
             width={128}
             height={128}

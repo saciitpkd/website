@@ -1,12 +1,13 @@
 import Image from "next/image";
 import { FaLinkedin, FaTwitter, FaYoutube } from "react-icons/fa";
+import { withBasePath } from "@/lib/basePath";
 
 export function SiteFooter() {
   return (
     <footer className="mt-auto flex flex-wrap items-center justify-between gap-6 bg-gradient-to-t from-stone-900 via-stone-700 to-stone-100 px-6 py-6 text-white sm:px-12">
       <div className="flex flex-wrap items-center justify-center gap-4 sm:justify-start">
         <Image
-          src="/logo/iitpkdlogosmall.webp"
+          src={withBasePath("/logo/iitpkdlogosmall.webp")}
           alt="IIT Palakkad"
           width={80}
           height={80}
