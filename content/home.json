@@ -17,10 +17,10 @@
   ],
   "deanOffice": [
     {
-      "name": "Dr. Deepak Rajendraprasad",
-      "title": "Associate Professor in Computer Science & Engineering and Dean of Student Affairs",
+      "name": "Dr. Swaroop Sahoo",
+      "title": "Associate Professor in Electrical Engineering and Physics and Dean of Student Affairs",
       "email": "deanstudents@iitpkd.ac.in",
-      "image": "/people/DeepakR.webp"
+      "image": "/people/SwaroopS.webp"
     },
     {
       "name": "S Samuel",
@@ -89,10 +89,10 @@
         "image": "/student/102201009@smail.iitpkd.ac.in/photo.webp"
       },
       {
-        "name": "Varun Jha",
+        "name": "Vishwaa P S",
         "title": "Technical Affairs Secretary",
         "email": "sec_tech@smail.iitpkd.ac.in",
-        "image": "/student/112301036@smail.iitpkd.ac.in/photo.webp"
+        "image": "/student/112201030@smail.iitpkd.ac.in/photo.webp"
       },
       {
         "name": "Divesh Mishra",
