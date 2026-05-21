@@ -4,20 +4,20 @@
     "council_title": "Technical Council",
     "council_email": "techcouncil@smail.iitpkd.ac.in",
     "secretary": {
-      "name": "Vishwaa P S",
-      "full_name": "Vishwaa P S",
+      "name": "Alphin Issac",
+      "full_name": "Alphin Issac Varghese",
       "email": "sec_tech@smail.iitpkd.ac.in",
-      "studentEmail": "112201030@smail.iitpkd.ac.in"
+      "studentEmail": "142401007@smail.iitpkd.ac.in"
     },
     "deputies": []
   },
   "page": {
     "aboutTitle": "About the Technical Council",
-    "aboutParagraphs": [
-      "As one of the newly established premier institutes of technology in India, IIT Palakkad constantly strives to live up to the IIT tag and to constantly raise the standards by tirelessly working towards creating, sustaining and recreating a healthy, technocratic atmosphere to help the curiosity of budding innovators and engineers of the future.",
-      "The Technical Council of IIT Palakkad actively advocates and handles all the technical initiatives, events and activities held in the Institute. The council comprises the student representatives, coordinators and faculty, each of who passionately work towards progressively transcending the institute in the field of technology. With this view in mind, the Council also works toward securing a sustainable budget from the Student Affairs Council (SAC) Budget.",
-      "The Council also takes pride in maintaining the Innovation Lab, which forms the central hub for all creative activities of the students. The lab is well-equipped with modern equipment, tools and material with the facility being student-run and maintained under the supervision of the Technical Affairs Secretary (TAS), appointed under the SAC to drive the growth of technical knowledge at the campus."
-    ],
+	"aboutParagraphs": [
+		"As one of the newly established premier institutes of technology in India, IIT Palakkad constantly strives to live up to the IIT tag and to constantly raise the standards by tirelessly working towards creating, sustaining and recreating a healthy, technocratic atmosphere to help the curiosity of budding innovators and engineers of the future.",
+		"The Technical Council of IIT Palakkad actively advocates and handles all the technical initiatives, events and activities held in the Institute. The council comprises the student representatives, coordinators and faculty, each of who passionately work towards progressively transcending the institute in the field of technology. With this view in mind, the Council also works toward securing a sustainable budget from the Student Affairs Council (SAC) Budget.",
+		"The Council also takes pride in maintaining the Innovation Lab, which forms the central hub for all creative activities of the students. The lab is well-equipped with modern equipment, tools and material with the facility being student-run and maintained under the supervision of the Technical Affairs Secretary (TAS), appointed under the SAC to drive the growth of technical knowledge at the campus."
+	],
     "galleryTitle": "Glimpses of Innovation",
     "galleryImages": [
       "/council/technical/photo4.webp",
