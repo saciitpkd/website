@@ -4,12 +4,14 @@
     "council_title": "Cultural Council",
     "council_email": "culturalcouncil@smail.iitpkd.ac.in",
     "secretary": {
-      "name": "Joy Patel",
-      "full_name": "Joy Patel",
+      "name": "Akshat Nair",
+      "full_name": "Akshat Nair",
       "email": "sec_arts@smail.iitpkd.ac.in",
-      "studentEmail": "132201022@smail.iitpkd.ac.in"
+      "studentEmail": "142301038@smail.iitpkd.ac.in"
     },
-    "deputies": []
+    "deputies": [
+
+	]
   },
   "page": {
     "aboutTitle": "About the Cultural Council",
@@ -34,13 +36,13 @@
       },
       {
         "councilTitle": "Arts Council",
-        "name": "Gayathri S",
-        "email": "122201002@smail.iitpkd.ac.in"
+        "name": "Yazeed Nassar",
+        "email": "132401041@smail.iitpkd.ac.in"
       },
       {
         "councilTitle": "Literary Council",
-        "name": "Pushti Amit Vasoya",
-        "email": "112201005@smail.iitpkd.ac.in"
+        "name": "Patil Arjun Pravin",
+        "email": "102301026@smail.iitpkd.ac.in"
       }
     ]
   }
