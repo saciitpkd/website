@@ -3,6 +3,8 @@ import type { NextConfig } from "next";
 const rawBase = process.env.NEXT_PUBLIC_BASE_PATH?.trim() ?? "";
 const basePath = rawBase === "/" ? "" : rawBase.replace(/\/$/, "");
 
+//trigger rebuild
+
 const nextConfig: NextConfig = {
   output: "export",
   images: { unoptimized: true },
