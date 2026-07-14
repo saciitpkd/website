@@ -13,11 +13,15 @@ export function AnnouncementSection({ announcements }: Props) {
   const itemsToShow = 3;
   const containerRef = useRef<HTMLDivElement>(null);
 
-  const displayed = useMemo(
-    () => announcements.slice(startIndex, startIndex + itemsToShow),
-    [announcements, startIndex],
+  const validAnnouncements = useMemo(
+    () => announcements.filter((a) => a.body.trim() !== ""),
+    [announcements],
   );
-  const canGoNext = startIndex + itemsToShow < announcements.length;
+  const displayed = useMemo(
+    () => validAnnouncements.slice(startIndex, startIndex + itemsToShow),
+    [validAnnouncements, startIndex],
+  );
+  const canGoNext = startIndex + itemsToShow < validAnnouncements.length;
   const canGoPrev = startIndex > 0;
 
   const handleNext = useCallback(() => {
@@ -58,7 +62,7 @@ export function AnnouncementSection({ announcements }: Props) {
       <div className="mb-2 h-1.5 w-[26%] rounded-full bg-sac-orange" />
 
       <div ref={containerRef} className="mb-2">
-        {announcements.length === 0 ? (
+        {validAnnouncements.length === 0 ? (
           <p className="mt-5 text-center text-sm italic text-stone-500">
             No announcements available.
           </p>
